@@ -1,4 +1,4 @@
-# INF6027 Project: Spotify Tracks Dataset Analysis
+# INF6027 Project: Exploring Audio Features and Clusters in High-Popularity Songs
 
 ## Description
 This repository contains the coursework project for the INF6027 Introduction to Data Science module. The project involves analyzing the Spotify Tracks Dataset to explore data characteristics, conduct exploratory data analysis (EDA), and perform statistical modeling to uncover insights into audio features and track popularity.
