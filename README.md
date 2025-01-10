@@ -41,6 +41,21 @@ The dataset used for this project is sourced from [Spotify Tracks Dataset](https
   - Hypothesis testing using ANOVA.
   - Regression modeling to explore factors influencing popularity.
 
+## Key Findings
+
+1. **Relationship Between Audio Features and Popularity**:
+   - Energy, danceability, and loudness are the most influential audio features for determining Spotify track popularity.
+   - High-energy tracks with strong rhythm and engaging dynamics are predominantly found in the top-performing clusters.
+
+2. **Impact of Emotional Characteristics**:
+   - Tracks with higher valence (positivity) are strongly associated with higher popularity scores.
+   - Tracks in a major mode are more frequently found in the high-popularity category, reflecting their ability to evoke uplifting emotions.
+
+3. **Clustering Analysis of High-Popularity Tracks**:
+   - High-popularity tracks tend to combine high energy, danceability, and valence, forming a winning combination that engages listeners.
+   - Cluster analysis identified three distinct patterns among highly popular tracks, highlighting different styles or combinations of audio features.
+
+
 ## File Structure
 - `INF6027.R`: Main R script for data cleaning, analysis, and visualization.
 - `dataset.csv`: Dataset used for analysis.
