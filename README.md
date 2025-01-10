@@ -42,9 +42,8 @@ The dataset used for this project is sourced from [Spotify Tracks Dataset](https
   - Regression modeling to explore factors influencing popularity.
 
 ## File Structure
-- `data/`: Contains raw and cleaned datasets.
-- `src/`: R scripts for analysis and visualizations.
-- `results/`: Contains plots and analysis outputs.
+- `INF6027.R`: Main R script for data cleaning, analysis, and visualization.
+- `dataset.csv`: Dataset used for analysis.
 - `README.md`: Documentation for the project.
 
 ## Installation
