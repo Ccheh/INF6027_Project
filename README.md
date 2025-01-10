@@ -49,4 +49,4 @@ The dataset used for this project is sourced from [Spotify Tracks Dataset](https
 ## Installation
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/YourUsername/INF6027_Project.git
+git clone https://github.com/Ccheh/INF6027_Project.git
